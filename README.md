@@ -65,7 +65,7 @@ SELECT * FROM <your table>;
 
 Include some screenshots!
 
-Experiment with CRUD and show the outputs:
+## Experiment with CRUD and show the outputs: ##
 
 Examples from the workshop:
 
