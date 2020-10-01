@@ -2,6 +2,12 @@
 
 If you have attended recently our workshops here, we ask you to create your own Github repo showing off your learning journey with Astra. You could use this repo here as a start: fork it and update it with your own examples.
 
+## Explain your use case ##
+
+Pick an example application that you could see on Astra and describe the entities and queries for it. 
+
+Include diagrams, screenshots etc to make it more interesting and better convey your ideas.
+
 ## Create your own tables on Astra ##
 
 Example tables that we used in the workshop:
@@ -24,15 +30,13 @@ CREATE TABLE IF NOT EXISTS comments_by_video (
 ) WITH CLUSTERING ORDER BY (commentid DESC);
 ```
 
-Show us your own tables - for a data model of your choice. 
+Show us your own tables - for the data model of your choice.
 
 ```
 Update with your own table
 ```
 
-Be bold and try your hand at data modelling for a more interesting use case, include diagrams etc to make it more interesting and better convey your ideas.
-
-# Insert some data
+## Insert some data ##
 
 Here some example data that we used in the workshop:
 
